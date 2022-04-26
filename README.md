@@ -1,24 +1,16 @@
 # vue-skills
 
-## Project setup
-```
-npm install
-```
+## Overview
+An app that allows you to add skills to a list that also has validation
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Purpose
+To get a basic understanding of how Vue works
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Concepts learnt
+1) Vue format
+2) Styling with Vue
+3) Directives
+4) Vue interpolation
+5) Dealing with forms and form validation
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
